@@ -1,0 +1,158 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.section1{
+	padding: 20px 0;
+	background-color:pink;
+}
+.container{
+	width:90%;
+	margin:0 auto;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+.col1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col3{
+	width:25%;
+	padding:0 15px;
+}
+.col4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col6{
+	width:50%;
+	padding:0 15px;
+}
+.col7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col9{
+	width:75%;
+	padding:0 15px;
+}
+.col10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col12{
+	width:100%;
+	padding:0 15px;
+}
+.mentor{
+	background-color:orange;
+	height:50px;
+}
+.nav-list{
+	background-color:orange;
+	height:50px;
+}
+.picture{
+    background-color:orange;
+	height:400px;
+	margin:20px 0;
+}
+.section2{
+	padding:20px 0;												
+	background-color:black;
+}
+.vol-para{
+	background-color:white;
+	height:300px;
+}.vol-img{
+	background-color:white;
+	height:300px;
+}
+.icon{
+	background-color:white;
+	height:100px;
+}
+.section3{
+	background-color:red;
+    padding:20px 0;
+}
+.mentor-high{
+    background-color:white;
+	height:300px;
+}
+.mentor-icon{
+	background-color:white;
+	height:230px;
+}
+.row1{
+	align-items:center;
+}
+.section4{
+	background-color:blue;
+	padding:20px 0;
+}
+.col{
+	padding:9px 15px;
+}
+.section5{
+	background-color:gray;
+	padding:20px 0;
+}
+.course,.popcourse{
+	background-color:white;
+	height:40px;
+}
+.section6{
+	background-color:gray;
+	padding:20px 0;
+}
+.trading-img{
+	background-color:white;
+	height:500px;
+}
+.section7{
+	background-color:orange;
+	padding:20px 0;
+}
+.section8{
+	background-color:white;
+	padding:20px 0;
+}
+.last1{
+	background-color:black;
+	height:170px;
+}
+.last{
+	background-color:black;
+	height:100px
+}
+.top{
+	align-items:center;
+}
+footer{
+	background-color:pink;
+	padding:20px 0;
+}
+.fot-last{
+	background-color:white;
+	height:50px;
+}
